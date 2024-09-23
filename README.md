@@ -1,2 +1,7 @@
 # Towns for SoftUni
-Code for the Git and GitHub Exercise
+
+# Roles
+•	Сульо takes the role "Editor"
+•	Пульо takes the role "Shuffler"
+•	Атанас takes the role "Styler"
+
